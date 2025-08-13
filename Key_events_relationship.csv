@@ -1,0 +1,18 @@
+,source,target,value
+0,France,Germany,43
+1,Germany,Italy,42
+2,Germany,Soviet Union,10
+3,France,Italy,15
+4,Germany,Japan,53
+5,China,Japan,38
+6,India,Japan,17
+7,France,Japan,10
+8,China,France,6
+9,China,India,12
+10,Germany,India,15
+11,India,Soviet Union,5
+12,China,Soviet Union,5
+13,China,United States,5
+14,Canada,United States,10
+15,Japan,United States,5
+16,Italy,Japan,16
